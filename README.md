@@ -28,6 +28,6 @@ Game Engine :
 
 Tool :
 
-![](https://skillicons.dev/icons?i=pycharm,vscode,visualstudio)
+![](https://skillicons.dev/icons?i=pycharm,vscode,visualstudio,replit)
 
 <!--<h1 align="center">Don't mind me pls.</h1>-->
